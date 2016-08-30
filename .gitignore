@@ -3,3 +3,5 @@
 /AspModel/CommonModules/bin/Debug
 /AspModel/CommonModules/obj/Debug
 /AspHandler/AspHandler/obj/Debug
+/AspPageLifecycle/AspPageLifecycle/bin
+/AspPageLifecycle/AspPageLifecycle/obj/Debug
